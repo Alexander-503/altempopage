@@ -1,0 +1,13 @@
+.footer{
+    bottom: 100%;
+    width: 100% !important;
+    height: 570px !important;;
+    margin:0;
+    padding:0;
+}
+
+.contact{
+    bottom: 100%;
+    width: 100% !important;
+    height: 970px !important;;
+}
